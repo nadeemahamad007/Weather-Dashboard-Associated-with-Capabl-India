@@ -4,7 +4,7 @@
 ![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![Weather API](https://img.shields.io/badge/Open--Meteo-Live%20Weather-0b7285?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-GitHub%20Ready-brightgreen?style=for-the-badge)
+
 
 An end-to-end frontend weather dashboard project built during the Capabl Summer Internship. This repository includes a responsive user interface, live weather search, reusable project structure, and internship certificate documentation for portfolio presentation.
 
