@@ -107,4 +107,6 @@ Project Weather Web/
 
 ## Author
 
+Nadeem Ahamad
+
 Prepared as a Full Stack Development Project under Capabl Summer Internship and refined for GitHub portfolio presentation.
