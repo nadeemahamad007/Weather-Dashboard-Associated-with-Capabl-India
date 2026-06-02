@@ -107,4 +107,4 @@ Project Weather Web/
 
 ## Author
 
-Prepared as a Full Stack Development Internship Project under Capabl Summer Internship and refined for GitHub portfolio presentation.
+Prepared as a Full Stack Development Project under Capabl Summer Internship and refined for GitHub portfolio presentation.
